@@ -1,6 +1,7 @@
 # TDD-PairProgramming
 NHN Academy에서 수행했던 TDD 페어 프로그래밍 과제
 
+Team: 송학현, 김선홍
 
 ## 요구 사항
 ### 돈/은행/환전
